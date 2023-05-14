@@ -1,8 +1,8 @@
-# projectioe
+# IOE Capsule
 
-A new Flutter project.
+An educational app written in Dart/Flutter. This app is built to provide various study materials for engineering students including syllabus, notes, old questions and news and updates.
 
-## Getting Started
+## Screenshots
 
 This project is a starting point for a Flutter application.
 
